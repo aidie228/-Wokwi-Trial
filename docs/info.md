@@ -9,11 +9,14 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+inverter connecting switch one to output one, will change logic one to logic 0 and 0-1
 
 ## How to test
 
-Explain how to use your project
+|  input   |  output  |
+|----------|----------|
+| 00000000 | xxxxxxx1 |
+| 00000001 | xxxxxxx0 |
 
 ## External hardware
 
